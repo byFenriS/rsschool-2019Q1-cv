@@ -25,7 +25,7 @@ I really want to become a Front-end developer.
 * Git
 
 ## Experience
-1. **Training on the codewars platform and the SoloLearn mobile application. 
+* Training on the [Codewars](https://www.codewars.com/) platform and the SoloLearn mobile application. 
 * I took courses on the website (https://htmlacademy.ru/profile/id965535)
 * I took all the information on the site (https://learn.javascript.ru/).
 
