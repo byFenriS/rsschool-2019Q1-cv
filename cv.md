@@ -16,25 +16,25 @@ And to reach new heights in this. I start from scratch and hope to reach great h
 I really want to become a Front-end developer.
 
 
-##Skills & Tools
+## Skills & Tools
 
-*HTML
-*CSS
-*JS
-*Node.js
-*Git
+* HTML
+* CSS
+* JS
+* Node.js
+* Git
 
 ## Experience
 1. **Training on the codewars platform and the SoloLearn mobile application. 
-*I took courses on the website (https://htmlacademy.ru/profile/id965535)
-*I took all the information on the site (https://learn.javascript.ru/).
+* I took courses on the website (https://htmlacademy.ru/profile/id965535)
+* I took all the information on the site (https://learn.javascript.ru/).
 
-# Education
+## Education
 
-*Minsk State Belarusian State Medical College,specialty-
+* Minsk State Belarusian State Medical College,specialty-
 Medical brother (_2016-2018_)
-*Online course at [Htmlacademy.ru](https://htmlacademy.ru/profile/id965535) (_December 2018_)
+* Online course at [Htmlacademy.ru](https://htmlacademy.ru/profile/id965535) (_December 2018_)
 
-##Languages
+## Languages
 
-*English - level **A2+**
+* English - level **A2+**
