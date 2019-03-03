@@ -1,7 +1,7 @@
 # Junior Front-End Developer CV
 
 ## Personal information
-![CV photo](/r1qUnD7jngs.jpg)
+![CV photo](https://pp.userapi.com/c846124/v846124579/ca6a6/linHvvtnKzM.jpg)
 
 **Alexei Zhishko**
 * Email: onedayalexfree@bk.ru
